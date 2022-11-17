@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<link rel = "preconnect" href = "https://fonts.googleapis.com">
+<link rel = "preconnect" href = "https://fonts.gstatic.com" crossorigin >
+<enlace href = "https://fonts.googleapis.com/css2?familia =Langosta&mostrar = swap "rel =" stylesheet ">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Crimson+Text&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+
+<title>Dibujos</title>
+<style>
+
+
+
+.owo {
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+  color: #8646FE;
+ }
+ 
+ .dibujo {
+    width: 200px;
+  height: 300px;
+  object-fit: cover;
+ 
+ }
+ 
+.A {
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+   color: #7B23AD;
+ 
+ }
+  
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 10px;
+  background-color: #8F9AF7;
+}
+
+ h1 {
+ background-color:#9693DA;
+ text-align: center;
+ padding: 15px;
+ }
+ 
+  .bloque {
+ 
+  border: 5px outset #8646FE;
+  background-color: #C5BCFB;    
+  text-align: center
+ }
+ 
+
+ 
+ 
+    
+  
+<HEADER>
+
+
+</head>
+
+</HEADER>
+
+
+
+</style>
+
+<SECTION>
+
+<body style="background-color:#DFCAC7;"> 
+
+<h1 class="owo" serif;> Dibujos de sr_potota </h1>   
+
+<ul>
+  <li><a href="#home">Inicio</a></li>
+  <li><a href="#contact">Contacto</a></li>
+</ul>
+
+
+   <img src="conejo.png" alt="dibujo">
+   <img src="la mishi2.jpg" alt="michi">
+   <img src="5.jpg" alt="Z">
+   
+<div class="bloque">
+       
+   <p class="A"> Se les presenta los dibujos del usuario sr potota, esta pagina está basado en este usuario ya que el se contacto con nosotros.Sus dibujos son curiosos y tal vez un poco tenebrosos su dibujos son basados en los sentimientos que él/ella a pasado y tal vez unos que otros por pensamiento.El dibujo es una técnica bastante fácil se podría decir que podría ser una manera de desestresarse, pero cada quien tienen maneras de quitar el estrés el usuario se basa en esto para dibujar en su tiempo libre. El/ella  busca dibujar una historia de mano propia con sus dibujos una historia basada en la crueldad del ser o seres de ese universo , una vida de sufrimiento pero también momentos de felicidad , pronto,tal vez pronto podremos ver una historia de este usuario . </p>
+
+</div>
+
+     <img src="pajaro.jpg" alt="niñas">
+     <img src="3.jpg" alt="L" >
+     <img src="n3.jpg" alt="yo">
+       
+  </SECTION>
+   
+   <FOOTER>Nadia 2022</FOOTER> 
+  
+  <a href="http://yomera861695356.wordpress.com"><Ir a la paguina</a> 
+
+</body>
+</html>
+
+
